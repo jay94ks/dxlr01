@@ -4,6 +4,10 @@ A C++ driver for the DX-LR01 LoRa UART module. The same source runs on Linux (te
 
 [한국어](README.ko.md)
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Layout
 
 | Path | Description |
